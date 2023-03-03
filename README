@@ -8,3 +8,5 @@ Fileist
 index.html 
   Base page for Azurite media server
 
+pdf/
+  Portable Document Format files
